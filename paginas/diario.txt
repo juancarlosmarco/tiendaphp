@@ -1,0 +1,24 @@
+Viernes 25 de Mayo de 2018
+--------------------------
+
+
+Boton derecho en la carpeta C:\xampp\htdocs
+	-> GIT BASH HERE
+
+git clone https://bitbucket.org/davidfraj/tiendaphpmayo2018.git tiendaprofesor
+
+--------------------------
+
+Registro de usuarios
+
+\\eq-109
+\\192.168.1.55
+
+----------------------------
+Como enviar un correo electronico usando PHP
+----------------------------
+
+Antes de nada, hay que tener en cuenta, que PHP, no manda correo, y apache, TAMPOCO manda correos. solo mandan correos, los SERVIDORES de correo. Y... NO TENEMOS NINGUNO INSTALADO. Cuando se envia un correo, los servidores que reciben el correo, van a VALIDAD que somos validos.
+
+Esto que vamos a ver, SOLO funcionara, cuando la web este en un HOSTING alojada.
+

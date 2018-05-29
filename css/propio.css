@@ -1,0 +1,6 @@
+
+
+
+table.buscador tr td::first-letter{
+  text-transform: capitalize;
+}
